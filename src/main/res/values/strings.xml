@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComputingQoutes</string>
+    <string name="enter_date_of_birth">enter Date Of Birth</string>
+    <string name="enter_death_date">enter Death Date</string>
+    <string name="enter_qoute">Enter qoute</string>
+    <string name="dob_dd_mm_yy">dob dd/mm/yy</string>
+    <string name="death_date_dd_mm_yyyy">death date dd/mm/yyyy</string>
+</resources>
